@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "794642988672",
+    "project_id": "andar-bahar-567a9",
+    "storage_bucket": "andar-bahar-567a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794642988672:android:31247cca2a6f76380ff065",
+        "android_client_info": {
+          "package_name": "com.example.Lagaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794642988672-ng1q4on77h6enm1v8pftcb346r1as5dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgVDKjFEaDPnGO8C_dJcqjuSb2yOoPEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794642988672-ng1q4on77h6enm1v8pftcb346r1as5dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794642988672:android:7e3f136a0746dbe00ff065",
+        "android_client_info": {
+          "package_name": "com.gamegards.allinonev3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794642988672-ht7ktshqnj3omkacjg9lq4ukleh8758v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamegards.allinonev3",
+            "certificate_hash": "38c7c61dd8d97c1e9e5b3551da6f5a66c7f0f1bb"
+          }
+        },
+        {
+          "client_id": "794642988672-ng1q4on77h6enm1v8pftcb346r1as5dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgVDKjFEaDPnGO8C_dJcqjuSb2yOoPEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794642988672-ng1q4on77h6enm1v8pftcb346r1as5dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
